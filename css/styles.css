@@ -57,3 +57,12 @@ h1
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.bg-custom {
+    background-color: #299880 !important;
+}.language-level {
+    border: 2px solid #a4b792 !important;
+}
+
+.language-progress {
+    border: 2px solid #a4b793 !important;
+}
