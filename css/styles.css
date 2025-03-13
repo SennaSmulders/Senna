@@ -19,8 +19,11 @@ h1
   font-style: normal;
 }
 
-/* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+/* Styles for custom classes in the document. (There are more, try to find them out!) */
+.highlight-text {
+    color: #299880;  
+}
 .resume-header {
     background-color: #299880;
 }
